@@ -1,0 +1,16 @@
+#customAlias
+alias nf='neofetch|lolcat'
+alias cmat='cmatrix|lolcat'
+alias dragon='cowsay -f dragon'
+#TomcatAlias
+alias tomcat='cd /opt/tomcat/'
+alias tomcatStart='sudo systemctl start tomcat'
+alias tomcatStop='sudo systemctl stop tomcat'
+alias tomcatRestart='sudo systemctl restart tomcat'
+alias tomcatStatus='sudo systemctl status tomcat'
+#ApacheAlias
+alias apache='cd /etc/apache2'
+alias apacheStart='sudo systemctl start apache2'
+alias apacheStop='sudo systemctl stop apache2'
+alias apacheRestart='sudo systemctl restart apache2'
+alias apacheStatus='sudo systemctl status apache2'
